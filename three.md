@@ -888,7 +888,3 @@ DevSecOps is a journey, not a destination. Key takeaways:
 **XSS** - Cross-Site Scripting
 
 ---
-
-**End of DevSecOps Training Program**
-
-*For questions or additional training, contact your security team.*
